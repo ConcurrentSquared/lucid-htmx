@@ -34,7 +34,7 @@ library
       src
   build-depends:
       base >=4.7 && <5
-    , lucid2 <= 0.0.20220526
+    , lucid2 >= 0.0.20220526
     , text
   default-extensions:
     OverloadedStrings
